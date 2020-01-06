@@ -18,6 +18,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>v.2</p>
       </header>
     </div>
   );
